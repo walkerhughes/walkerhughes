@@ -1,9 +1,10 @@
 👋 Hi, I’m Walker
 
-I'm a mathematician and data scientist based in San Francisco. I'm interested in using AI to fight wildfires and identify changes 
-in implied volatility regimes in SP500 data. But really I just think math, computer science, and econometrics are awesome. 
+I'm an applied mathematician and data scientist based in San Francisco. I'm interested in using AI to create a positive impact in the world. Beginning in the Summer of 2024, I am beginning a MS in Data Science at the University of San Francisco. 
 
-Outside of work I enjoy backpacking in the Sierra Nevadas and Brazilian jiu-jitsu =]
+Outside of work I enjoy backpacking in the Sierra Nevadas and practicing Brazilian jiu-jitsu =]
+
+Feel free to take a look at some of my recent projects below!
 
 
 <!---
