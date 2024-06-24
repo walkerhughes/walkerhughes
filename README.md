@@ -1,6 +1,6 @@
 👋 Hi, I’m Walker
 
-I'm a mathematician and machine learning engineer based in San Francisco. I'm currently building **yieldcurvecentral.com**, a one-stop solution for AI-enabled analysis of the US Treasury Yield Curve.
+I'm a mathematician and machine learning engineer based in San Francisco. I'm currently building [www.yieldcurvecentral.com](https://www.yieldcurvecentral.com/), a one-stop solution for AI-enabled analysis of the US Treasury Yield Curve.
 
 Previously, I: 
 > - Completed large-scale SaaS implementations involving complex data engineering challenges at Addepar, a FinTech unicorn based in Mountain View, CA
