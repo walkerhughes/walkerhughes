@@ -7,7 +7,7 @@ Previously, I:
 > - Leveraged state-of-the-art statistical modelling for high-stakes commercial lawsuits at Cornerstone Research, a leading economic consulting firm in San Francisco 
 > - Conducted deep learning research at BYU focused on computer vision applications, and was a course assistant for Machine Learning for Economics and Econometrics 
 
-Beginning in the Summer of 2024, I'm returning to school for an MS in Data Science at the University of San Francisco. Outside of work I enjoy backpacking in the Sierra Nevadas and practicing Brazilian jiu-jitsu =] 
+I studied Computational Mathematics, Economics, and Portuguese Literature during my undergrad. Beginning in the Summer of 2024, I'm returning to school for an MS in Data Science at the University of San Francisco. Outside of work I enjoy backpacking in the Sierra Nevadas and practicing Brazilian jiu-jitsu =] 
 
 Check out [my website](https://whughes.vercel.app/) for more!
 
