@@ -5,9 +5,9 @@ I'm a mathematician and machine learning engineer based in San Francisco. I'm cu
 Previously, I: 
 > - Completed large-scale SaaS implementations involving complex data engineering challenges at Addepar, a FinTech unicorn based in Mountain View, CA
 > - Leveraged state-of-the-art statistical modeling for high-stakes commercial lawsuits at Cornerstone Research, a leading economic consulting firm in San Francisco 
-> - Conducted deep learning research at BYU focused on computer vision applications, and was a course assistant for Machine Learning for Economics and Econometrics 
+> - Conducted deep learning research at BYU focused on computer vision applications, and was a course assistant for Causal ML methods in the Economics Department
 
-I studied Computational Mathematics, Economics, and Portuguese Literature during my undergrad. Beginning in the Summer of 2024, I'm returning to school for an MS in Data Science at the University of San Francisco. Outside of work I enjoy backpacking in the Sierra Nevadas and practicing Brazilian jiu-jitsu =] 
+Beginning in the Summer of 2024, I'm returning to school for an MS in Data Science at the University of San Francisco. Outside of work I enjoy backpacking in the Sierra Nevadas and practicing Brazilian jiu-jitsu =] 
 
 Check out [my website](https://whughes.vercel.app/) for more!
 
