@@ -7,8 +7,6 @@ Previously, I:
 > - Leveraged state-of-the-art statistical modeling for high-stakes commercial lawsuits at Cornerstone Research, a leading economic consulting firm in San Francisco. I contributed to one of the first Expert Reports that utilized NLP methods in commercial litigation.
 > - Conducted deep learning research at BYU focused on computer vision applications, and was a course assistant for Causal ML methods in the Economics Department.
 
-Beginning in the Summer of 2024, I'm returning to school for an MS in Data Science at the University of San Francisco. Outside of work I enjoy backpacking in the Sierra Nevadas and practicing Brazilian jiu-jitsu =] 
-
 Check out [my website](https://whughes.vercel.app/) for more!
 
 <!---
