@@ -7,7 +7,7 @@ I'm currently focused on
 - 🌲 Adapting Monte-Carlo Tree Search methods to novel domains
 
 Previously, I
-- 📈 Owned the technical data workflows in large-scale SaaS implementations at Addepar, a FinTech unicorn based in Mountain View
+- 📈 Owned data engineering workflows in SaaS implementations at Addepar, a FinTech unicorn based in Mountain View
 - 👨‍⚖️ Leveraged SOTA statistical modeling in high-stakes litigation at Cornerstone Research, where I contributed to one of the first Expert Reports utilizing NLP in commercial litigation
 - 👁️ Was a deep learning researcher in undergrad focused on computer vision, and was a course assistant for Causal ML methods in the Economics Department
 
