@@ -3,8 +3,8 @@
 I'm a machine learning engineer based in San Francisco. I currently work at `hyprbm`, where I'm building tools for emotional intelligence with LLMs. I'm passionate about tech, backpacking in the Sierra Nevadas, and Brazilian jiu-jitsu. 
 
 I'm currently focused on
-- 💻 Really fast retrieval and ranking in large-scale, low-latency recommendation systems
-- 🌲 Adapting Monte-Carlo Tree Search methods to novel domains
+- 💻 Building topic models for fast inference in conversational data
+- 🌲 Adapting Monte-Carlo Tree Search methods in novel domains
 
 Previously, I
 - 📈 Owned data engineering workflows in SaaS implementations at Addepar, a FinTech unicorn based in Mountain View
