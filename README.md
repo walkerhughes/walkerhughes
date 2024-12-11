@@ -1,6 +1,6 @@
 👋 Hi, I’m Walker
 
-I'm a machine learning engineer based in San Francisco. I currently work at `hyprbm`, where I'm building tools for emotional intelligence with LLMs. I'm passionate about tech, backpacking in the Sierra Nevadas, and Brazilian jiu-jitsu. 
+I'm a machine learning engineer based in San Francisco. I currently work at `hyprbm`, where I'm building topic models for emotional intelligence in conversational data. I'm passionate about tech, backpacking in the Sierra Nevadas, and Brazilian jiu-jitsu. 
 
 I'm currently focused on
 - 💻 Building topic models for fast inference in conversational data
