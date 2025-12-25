@@ -1,4 +1,4 @@
-👋 Hi, I’m Walker. I'm an engineer based in San Francisco, currently building in stealth 🥷
+👋 Hi, I’m Walker. I'm an engineer based in San Francisco
 
 <!---
 walkerhughes/walkerhughes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
